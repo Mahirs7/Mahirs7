@@ -1,9 +1,8 @@
-### Hi there 👋
+# Hey, I am Mahir Sabarwal! 👋
 
-<!--
-**Mahirs7/Mahirs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About 
+I'm a Computer Science and Mathematics student at the University of Illinois Urbana-Champaign. I'm also pursuing a minor in Statistics and a Data Science certificate.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
