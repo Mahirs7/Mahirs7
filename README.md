@@ -43,15 +43,6 @@ I enjoy building cool things to impact people.
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## My Portfolio
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=visualstudiocode&logoColor=white)](https://mahir-blog.vercel.app)
-
-## I'm currently working on
-![Current Project](https://github-readme-stats.vercel.app/api/pin/?username=Mahirs7&repo=MassProd-Web-App&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
 ## My Stats
 
 ![Mahir's Github Stats](https://github-readme-stats.vercel.app/api?username=Mahirs7&show_icons=true&theme=radical&hide=contribs&rank_icon=github)
-
-![Current Project](https://github-readme-stats.vercel.app/api/pin/?username=Mahirs7&repo=MassProd-Web-App&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
