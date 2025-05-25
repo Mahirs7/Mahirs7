@@ -6,7 +6,7 @@
 ## About 
 I'm studying Math and Computer Science at the University of Illinois Urbana-Champaign. I'm also pursuing a minor in Statistics. <br>
 I'm an aspiring software engineer with a keen interest in quantitative finance and generative AI. <br>
-I'm currently working at GamePlay, a sports scheduling startup based in the Bay Area, as a full stack Software Engineer Intern. <br>
+I'm currently working at KPMG as a Consultant Intern. I am in the enterprise solutions service line and I work with Salesforce.<br>
 Previously, I have worked as a Software Engineer Intern and Machine Learning Engineer Intern. <br>
 I enjoy building cool things to impact people.
 
