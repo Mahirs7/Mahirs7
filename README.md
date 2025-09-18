@@ -1,7 +1,7 @@
 # Hey, I am Mahir Sabarwal! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahirsabharwal) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahirsabharwal2005@gmail.com)
-[![Personal Website](https://www.mahirsabharwal.vercel.app)
+[![Personal Website](https://img.shields.io/badge/Portfolio-Mahir%20Sabharwal-9cf?logo=vercel)](https://www.mahirsabharwal.vercel.app)
 
 
 ## About 
