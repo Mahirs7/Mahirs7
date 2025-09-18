@@ -1,12 +1,13 @@
 # Hey, I am Mahir Sabarwal! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahirsabharwal) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahirsabharwal2005@gmail.com)
+[![Personal Website](https://www.mahirsabharwal.vercel.app)
 
 
 ## About 
 I'm studying Math and Computer Science at the University of Illinois Urbana-Champaign. I'm also pursuing a minor in Statistics. <br>
-I'm an aspiring software engineer with a keen interest in quantitative finance and generative AI. <br>
-I'm currently working at KPMG as a Consultant Intern. I am in the enterprise solutions service line and I work with Salesforce.<br>
+I'm an aspiring software engineer with a keen interest in quantitative finance and agentic AI. <br>
+I recently worked at KPMG as a Software Developer. I was in the enterprise solutions service line and I worked with Salesforce.<br>
 Previously, I have worked as a Software Engineer Intern and Machine Learning Engineer Intern. <br>
 I enjoy building cool things to impact people.
 
