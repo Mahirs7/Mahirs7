@@ -1,0 +1,46 @@
+<svg viewBox="0 0 860 300" width="860" height="300" xmlns="http://www.w3.org/2000/svg" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+  <title>mahir@kosmos: prediction markets let you trade your beliefs. kosmos: intelligence to trade with conviction, agents to trade while you sleep.</title>
+
+  <defs>
+    <clipPath id="type1"><rect x="176" y="60" width="0" height="22"><animate attributeName="width" from="0" to="70" begin="0.5s" dur="0.45s" fill="freeze"/></rect></clipPath>
+    <clipPath id="type2"><rect x="176" y="116" width="0" height="22"><animate attributeName="width" from="0" to="132" begin="1.8s" dur="0.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tickerClip"><rect x="14" y="248" width="832" height="40"/></clipPath>
+  </defs>
+
+  <!-- card -->
+  <rect x="0.5" y="0.5" width="859" height="299" rx="12" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- title bar -->
+  <circle cx="24" cy="19" r="6.5" fill="#ff5f56"/>
+  <circle cx="46" cy="19" r="6.5" fill="#ffbd2e"/>
+  <circle cx="68" cy="19" r="6.5" fill="#27c93f"/>
+  <text x="430" y="23" text-anchor="middle" font-size="12" fill="#8b949e">mahir@kosmos: ~ (zsh)</text>
+  <line x1="1" y1="38" x2="859" y2="38" stroke="#21262d"/>
+
+  <!-- $ whoami -->
+  <text x="28" y="76" font-size="14" fill="#7ee787">mahir@kosmos ~ %</text>
+  <g clip-path="url(#type1)"><text x="176" y="76" font-size="14" fill="#e6edf3">whoami</text></g>
+  <text x="28" y="104" font-size="14" fill="#8b949e" opacity="0">mahir sabharwal, co-founder @ <tspan fill="#ffa657">kosmos</tspan><set attributeName="opacity" to="1" begin="1.2s"/></text>
+
+  <!-- $ kosmos pitch -->
+  <text x="28" y="132" font-size="14" fill="#7ee787" opacity="0">mahir@kosmos ~ %<set attributeName="opacity" to="1" begin="1.4s"/></text>
+  <g clip-path="url(#type2)"><text x="176" y="132" font-size="14" fill="#e6edf3">kosmos --pitch</text></g>
+  <text x="28" y="160" font-size="14" fill="#8b949e" opacity="0">prediction markets let you trade your beliefs.<set attributeName="opacity" to="1" begin="2.9s"/></text>
+  <text x="28" y="188" font-size="14" fill="#8b949e" opacity="0"><tspan fill="#ffa657">kosmos</tspan>: intelligence to trade with conviction, <tspan fill="#7ee787">agents to trade while you sleep.</tspan><set attributeName="opacity" to="1" begin="3.2s"/></text>
+
+  <!-- idle prompt + cursor -->
+  <text x="28" y="216" font-size="14" fill="#7ee787" opacity="0">mahir@kosmos ~ %<set attributeName="opacity" to="1" begin="3.7s"/></text>
+  <rect x="176" y="202" width="9" height="17" fill="#7ee787" opacity="0">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" begin="3.9s" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ticker -->
+  <line x1="1" y1="246" x2="859" y2="246" stroke="#21262d"/>
+  <g clip-path="url(#tickerClip)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1650 0" dur="46s" repeatCount="indefinite"/>
+      <text x="0" y="274" font-size="12" textLength="1650"><tspan fill="#484f58">03:12:04  </tspan><tspan fill="#ffa657">ingest</tspan><tspan fill="#484f58">  </tspan><tspan fill="#8b949e">8-K hits EDGAR</tspan><tspan fill="#484f58">      </tspan><tspan fill="#484f58">03:12:06  </tspan><tspan fill="#ffa657">signal</tspan><tspan fill="#484f58">  </tspan><tspan fill="#e6edf3">FED CUTS IN SEPT </tspan><tspan fill="#8b949e">cheap at 72¢, model 79</tspan><tspan fill="#484f58">      </tspan><tspan fill="#484f58">03:12:07  </tspan><tspan fill="#ffa657">exec  </tspan><tspan fill="#484f58">  </tspan><tspan fill="#8b949e">BUY YES 5,000 @ </tspan><tspan fill="#7ee787">72¢</tspan><tspan fill="#484f58">      </tspan><tspan fill="#484f58">06:30:01  </tspan><tspan fill="#ffa657">mark  </tspan><tspan fill="#484f58">  </tspan><tspan fill="#8b949e">79¢ at the open, </tspan><tspan fill="#7ee787">+7</tspan><tspan fill="#484f58">      </tspan><tspan fill="#484f58">06:30:04  </tspan><tspan fill="#ffa657">scan  </tspan><tspan fill="#484f58">  </tspan><tspan fill="#8b949e">39,999 markets to go</tspan><tspan fill="#484f58">      </tspan></text>
+      <text x="1650" y="274" font-size="12" textLength="1650"><tspan fill="#484f58">03:12:04  </tspan><tspan fill="#ffa657">ingest</tspan><tspan fill="#484f58">  </tspan><tspan fill="#8b949e">8-K hits EDGAR</tspan><tspan fill="#484f58">      </tspan><tspan fill="#484f58">03:12:06  </tspan><tspan fill="#ffa657">signal</tspan><tspan fill="#484f58">  </tspan><tspan fill="#e6edf3">FED CUTS IN SEPT </tspan><tspan fill="#8b949e">cheap at 72¢, model 79</tspan><tspan fill="#484f58">      </tspan><tspan fill="#484f58">03:12:07  </tspan><tspan fill="#ffa657">exec  </tspan><tspan fill="#484f58">  </tspan><tspan fill="#8b949e">BUY YES 5,000 @ </tspan><tspan fill="#7ee787">72¢</tspan><tspan fill="#484f58">      </tspan><tspan fill="#484f58">06:30:01  </tspan><tspan fill="#ffa657">mark  </tspan><tspan fill="#484f58">  </tspan><tspan fill="#8b949e">79¢ at the open, </tspan><tspan fill="#7ee787">+7</tspan><tspan fill="#484f58">      </tspan><tspan fill="#484f58">06:30:04  </tspan><tspan fill="#ffa657">scan  </tspan><tspan fill="#484f58">  </tspan><tspan fill="#8b949e">39,999 markets to go</tspan><tspan fill="#484f58">      </tspan></text>
+    </g>
+  </g>
+</svg>
