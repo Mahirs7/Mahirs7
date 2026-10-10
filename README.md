@@ -19,3 +19,11 @@ mahir@kosmos ~ % cat book.txt
  001   kosmos, co-founder      FEB 2026   
  002   b.s. math + cs, uiuc    AUG 2023  
 ```
+
+<samp>
+  <a href="https://x.com/mahirsabharwal">x</a> ·
+  <a href="https://www.mahirsabharwal.com/blog">blog</a> ·
+  <a href="https://www.mahirsabharwal.com">personal website</a> ·
+  <a href="https://kosmos.fyi">kosmos</a> ·
+  <a href="https://www.linkedin.com/in/mahirsabharwal">linkedin</a>
+</samp>
