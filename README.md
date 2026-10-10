@@ -15,21 +15,7 @@ math + cs @ uiuc in the background. i write about prediction markets [here](http
 ```
 mahir@kosmos ~ % cat book.txt
 
- ID    POSITION                ENTRY       STATUS
- 001   kosmos, co-founder      APR 2026    LONG 50x leverage
- 002   b.s. math + cs, uiuc    AUG 2023    hold to maturity
+ ID    POSITION                ENTRY      
+ 001   kosmos, co-founder      FEB 2026   
+ 002   b.s. math + cs, uiuc    AUG 2023  
 ```
-
-<p align="center">
-  <img src="assets/moon.svg" width="860" alt="kosmos to the moon? probability rising to 100">
-</p>
-
-<p align="center">
-  <samp>
-    <a href="https://www.mahirsabharwal.com">site</a> .
-    <a href="https://www.mahirsabharwal.com/blog">blog</a> .
-    <a href="https://kosmos.fyi">kosmos</a> .
-    <a href="https://linkedin.com/in/Mahirsabharwal">linkedin</a> .
-    <a href="mailto:mahirsabharwal@kosmos.fyi">email</a>
-  </samp>
-</p>
